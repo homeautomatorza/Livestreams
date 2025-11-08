@@ -1,4 +1,4 @@
-## 🚀 Your ESPHome & Home Assistant Livestream Project Hub
+# 🚀 Your ESPHome & Home Assistant Livestream Project Hub
 
 Welcome to the official Home Automator ZA GitHub repository for the livestreams on my YouTube channel!
 
@@ -6,9 +6,11 @@ This is your one-stop shop for all the code, configurations, and project resourc
 
 What You'll Find Here:
 
+- Home Assistant YAML Files: Ready-to-use dashboard configurations
 - ESPHome YAML Files: Ready-to-flash configurations for various sensors, microcontrollers (ESP32/ESP8266), and custom devices.
 - Project Links & Diagrams: Useful component links, wiring diagrams, and schematics.
-- Home Assistant Automations: Blueprint-ready and advanced YAML automations demonstrated in the streams.
+- Home Assistant Automations: Advanced YAML automations demonstrated in the streams.
+- and much more.
 
 And also all the archived Code from previous livestreams.
 
