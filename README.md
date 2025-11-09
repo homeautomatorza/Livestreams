@@ -22,4 +22,4 @@ New to the channel? Check out my latest livestreams and tutorials on [Home Autom
 
 ## Previous Livestream
 
-- 2025/11/09 - Let's build a Home Assistant Kiosk (Coming Soon)
+- [2025/11/09 - Let's build a Home Assistant Kiosk](/Livestreams/2025-11-09%20-%20Let's%20build%20a%20Home%20Assistant%20Kiosk/README.md)
